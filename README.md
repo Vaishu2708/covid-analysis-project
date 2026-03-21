@@ -15,4 +15,4 @@ python src/analysis.py
 
 ## 📈 Output
 - Graphs saved in outputs folder
-- Recovery prediction model
+- Recovery prediction model"# covid-analysis-project" 
