@@ -160,9 +160,7 @@ plt.show()
 
 # 8. LINEAR REGRESSION MODEL (HIGHLIGHTED)
 
-print("\n" + "="*50)
 print(" LINEAR REGRESSION MODEL - RECOVERY PREDICTION ")
-print("="*50)
 
 # Features & Target
 X = df[['age', 'contact_number', 'infection_order']].fillna(0)
