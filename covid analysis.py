@@ -60,7 +60,7 @@ print("\n Data Preprocessing Completed")
 
 # 4 DESCRIPTIVE STATISTICS
 
-print("\n📌 Descriptive Statistics Summary:\n")
+print("\n Descriptive Statistics Summary:\n")
 
 print(df[['age', 'contact_number', 'infection_order', 'recovery_days']].describe())
 
